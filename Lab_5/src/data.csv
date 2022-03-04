@@ -1,0 +1,11 @@
+name,cordX,cordY,minimalPoint,maximumPoint,personalQualitiesMaximum,difficulty,disciplineName,practiceHours
+Name1,6,71.0,5.0,105,10.0,HARD,Japn,777
+Name2,7,11.0,7.0,300,31.0,HARD,ICT+,696
+Name3,8,18.0,6.0,400,33.0,HARD,KiK+,422
+Name4,9,91.0,5.0,500,21.0,HARD,Sbor,228
+Name5,9,17.0,5.0,150,12.0,HARD,Braz,222
+Name6,3,11.0,7.0,30,3.0,HARD,HiOD,150
+Name7,2,41.0,5.0,25,5.0,HARD,Math,140
+Name8,4,18.0,6.0,40,3.0,HARD,OPD+,140
+Name9,5,91.0,5.0,50,2.0,HARD,Prog,108
+Name10,10,20.0,1.0,2,10.0,IMPOSSIBLE,CryBaby,999
